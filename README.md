@@ -5,6 +5,10 @@
 
 - 📄 Know about my experiences  https://www.linkedin.com/in/levent-kalkavan/
 
+- 👨‍💻 My Freelance Account: https://bionluk.com/leventkalkavan
+  
+- 💻 My Website: https://leventkalkavan.com.tr/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/leventkalkavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leventkalkavan" height="30" width="40" /></a>
