@@ -6,8 +6,6 @@
 - 📄 Know about my experiences  https://www.linkedin.com/in/levent-kalkavan/
 
 - 👨‍💻 My Freelance Account: https://bionluk.com/leventkalkavan
-  
-- 💻 My Website: https://leventkalkavan.com.tr/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
